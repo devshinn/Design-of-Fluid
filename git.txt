@@ -1,0 +1,14 @@
+git config --global user.name "홍길동"
+git config --global user.email "support@webisfree.com"
+git config --unset user.name
+git config --unset user.email
+git config --unset --global user.name
+git config --unset --global user.email
+
+git init
+git add
+git commit
+git push
+
+
+
